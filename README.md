@@ -1,4 +1,4 @@
-# paper
+# principle
 
 
 https://www.zhihu.com/question/23684933/answer/25463070
@@ -10,3 +10,7 @@ https://www.zhihu.com/question/23684933/answer/25463070
 - Results & Discussion这部分当然就是介绍自己每一个所做实验的结果。
 - 数据分析和结果讨论和Introduction同等重要，考察的是作者的学术功底，能否在已有数据上分析出科学合理的结果，并作证自己的结论。
 
+ALFM修改体会：
+- 对其他方法，慎用most successful等评价。
+- 提出多种方法时，突出其中一种，扛旗即可。
+- 慎用 typically、significantly等，用词应简单准确。
