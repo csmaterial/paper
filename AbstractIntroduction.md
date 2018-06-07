@@ -20,3 +20,9 @@
 - Hence, ***it is no surprise*** that similar NaMO2 compounds ***have been targeted as*** Na intercalation electrodes.
 
 在...基础上 on the basis of
+
+## 引出自己做的工作
+- Although there has been extensive research devoted to community discovery, most of it is restricted to single-relational networks.However, focus has been shifted to multi-relational networks in the recent years.
+- 虽然已经有广泛的研究致力于社区发现，但大部分局限于单一关系网络。然而，近年来焦点已经转移到多关系网络。
+
+
