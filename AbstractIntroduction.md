@@ -21,8 +21,11 @@
 
 在...基础上 on the basis of
 
+
+
 ## 引出自己做的工作
 - Although there has been extensive research devoted to community discovery, most of it is restricted to single-relational networks.However, focus has been shifted to multi-relational networks in the recent years.
 - 虽然已经有广泛的研究致力于社区发现，但大部分局限于单一关系网络。然而，近年来焦点已经转移到多关系网络。
 
-
+- There are two important factors that drive these successful applications: usage of effective (statistical) models that capture the complex data dependencies and scalable learning systems that learn the model of interest from large datasets.
+- 推动这些成功应用的因素有两个：使用捕获复杂数据依赖关系的有效（统计）模型和可从大型数据集中学习感兴趣模型的可扩展学习系统。
